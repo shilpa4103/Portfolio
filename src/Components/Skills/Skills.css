@@ -1,0 +1,8 @@
+.skills-title{
+    position: relative;
+}
+.skills-title h1{
+    padding: 0px 15px;
+    font-size: 60px;
+    font-weight: 400;
+}
