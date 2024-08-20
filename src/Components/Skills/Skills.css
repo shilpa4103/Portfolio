@@ -6,3 +6,9 @@
     font-size: 60px;
     font-weight: 400;
 }
+.skills-title h1 span{
+    background: linear-gradient(270deg,#ff9a02  50%, #ac03fa 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}

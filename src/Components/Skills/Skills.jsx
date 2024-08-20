@@ -5,7 +5,7 @@ const Skills = () => {
     <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', height: '100vh' }}>
       <div style={{ textAlign: 'center' }} className='skills'>
       <div className="skills-title">
-        <h1>Languages and Tools</h1>
+        <h1><span>Languages and Tools</span></h1>
         </div>
         <br/>
         <br/>
