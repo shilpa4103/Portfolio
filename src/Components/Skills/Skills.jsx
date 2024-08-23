@@ -2,7 +2,7 @@ import React from 'react';
 import './Skills.css'
 const Skills = () => {
   return (
-    <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', height: '100vh' }}>
+    <div id="skills" style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', height: '100vh' }}>
       <div style={{ textAlign: 'center' }} className='skills'>
       <div className="skills-title">
         <h1><span>Languages and Tools</span></h1>
